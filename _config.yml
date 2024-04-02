@@ -14,27 +14,27 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: wonyoung # the main title
+title: webs9919 # the main title
 
-tagline: Developer wonyoung
+tagline: Developer webs9919
 
 description: >- # used by seo meta and the atom feed
   hi!😊
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://elese0821.github.io"
+url: "https://webs9919.github.io"
 
 github:
-  username: elese0821 # change to your github username
+  username: webs9919 # change to your github username
 
 twitter:
-  username: elese0821 # change to your twitter username
+  username: webs9919 # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: wonyoung
+  name: webs9919
   email: webs9919@gmial.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
