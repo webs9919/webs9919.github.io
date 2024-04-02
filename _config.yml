@@ -14,32 +14,32 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bongpal # the main title
+title: wonyoung # the main title
 
-tagline: 메모
+tagline: Developer wonyoung
 
 description: >- # used by seo meta and the atom feed
-  어서와요
+  hi!😊
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://jaehyuk-lee-0712.github.io"
+url: "https://elese0821.github.io"
 
 github:
-  username: Bongpal # change to your github username
+  username: elese0821 # change to your github username
 
 twitter:
-  username: Bongpal # change to your twitter username
+  username: elese0821 # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Leejaehyuk
-  email: dlwogur0712@gmail.com # change to your email address
+  name: wonyoung
+  email: elese0821@naver.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/spearboy # change to your twitter homepage
-    - https://github.com/jaehyuk-lee-0712 # change to your github homepage
+    - https://twitter.com/elese0821 # change to your twitter homepage
+    - https://github.com/elese0821 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ./assets/img/info_1.png
+avatar: ./assets/img/img1.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
