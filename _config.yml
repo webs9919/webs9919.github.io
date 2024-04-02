@@ -14,12 +14,11 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: webs9919 # the main title
+title: webs9919
 
-tagline: Developer wonyoung
+tagline: Developer webs9919
 
-description: >- # used by seo meta and the atom feed
-  hi!😊
+description: hi!😊
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
